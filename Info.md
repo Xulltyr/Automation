@@ -1,4 +1,6 @@
 # Automation
-Estas son las actividades realizadas en mis diferentes cursos de automation.
+Trello:
+https://trello.com/b/LH2p1ayT/mytestsaucedemo-moreno-ignacio
 
-These are the activities carried out in my different automation courses.
+Plan de Pruebas:
+https://docs.google.com/spreadsheets/d/1q_NonGxpWax5kpEsFupzaXR5T5KMGprJ/edit?gid=1761268626#gid=1761268626
